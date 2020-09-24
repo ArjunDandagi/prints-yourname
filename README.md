@@ -2,7 +2,7 @@
 
 Prints yourname , in to the console 
 
-##USAGE:
+## USAGE:
 
 install the package using command 
 
