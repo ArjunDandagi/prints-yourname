@@ -1,0 +1,22 @@
+{
+  "name": "prints-yourname",
+  "version": "1.0.0",
+  "description": "prints yourname on the console/screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjundandagi/prints-yourname.git"
+  },
+  "keywords": [
+    "arjundandagi"
+  ],
+  "author": "Arjun Dandagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arjundandagi/prints-yourname/issues"
+  },
+  "homepage": "https://github.com/arjundandagi/prints-yourname#readme"
+}
