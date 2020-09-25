@@ -1,6 +1,6 @@
 {
   "name": "prints-yourname",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "prints yourname on the console/screen",
   "main": "index.js",
   "scripts": {

@@ -28,7 +28,7 @@ just a fun package learning
 2. cd <folder>
 3. npm init ( and fill those details )
 4. touch index.js 
-5. write stuff inside index.js ( i just wrote console.log("<secret>");
+5. write stuff inside index.js ( i just wrote console.log("secretstuff");)
 6. npm login 
 7. npm publish 
 
