@@ -1,10 +1,13 @@
 {
   "name": "prints-yourname",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "prints yourname on the console/screen",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "myname": "node index.js"
+  },
+  "bin": {
+    "myname": "./yourname.sh"
   },
   "repository": {
     "type": "git",
